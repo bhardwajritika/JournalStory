@@ -33,11 +33,11 @@ The project is built entirely using UIKit and Apple’s native frameworks, focus
 
 | Journal List | Map Screen |
 |--------------|-----------|
-| ![](JournalStoryScreenshots/journal_list.png) | ![](Screenshots/Map_screen.png) |
+| ![](JournalStoryScreenshots/journal_list.png) | ![](JournalStoryScreenshots/Map_screen.png) |
 
 | Map to Detail | Map to Detail (Alt) |
 |---------------|--------------------|
-| ![](Screenshots/Map_screen_to_detail.png) | ![](Screenshots/Map_screen_to_detail2.png)
+| ![](JournalStoryScreenshots/Map_screen_to_detail.png) | ![](JournalStoryScreenshots/Map_screen_to_detail2.png)
 
 🧱 Architecture
 
