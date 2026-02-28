@@ -141,27 +141,30 @@ Deleting Entries
 1. Long-press any journal entry
 2. Select Delete from the context menu
 
-📂 Project Structure
+## 📁 Project Structure
+
+```
 JournalStory/
 ├── Model/
 │   ├── JournalEntry.swift
 │   └── SharedData.swift
-├── Journal List Screen/
-│   ├── JournalListViewController.swift
-│   └── View/
-│       └── JournalListCollectionViewCell.swift
-├── Add New Journal Entry Screen/
-│   └── AddJournalEntryViewController.swift
-├── Journal Entry Detail Screen/
-│   └── JournalEntryDetailViewController.swift
-├── Map Screen/
-│   └── MapViewController.swift
+│
 ├── View/
-│   └── RatingView.swift
+│   ├── JournalListCollectionViewCell.swift
+│   ├── RatingView.swift
+│
+├── Controllers/
+│   ├── JournalListViewController.swift
+│   ├── AddJournalEntryViewController.swift
+│   ├── JournalEntryDetailViewController.swift
+│   └── MapViewController.swift
+│
+├── Base.lproj/
+│
 ├── AppDelegate.swift
 ├── SceneDelegate.swift
-├── Info.plist
-└── Base.lproj/
+└── Info.plist
+```
 
 🔐 Permissions
 
