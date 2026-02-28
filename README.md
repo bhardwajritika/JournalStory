@@ -62,14 +62,14 @@ The app follows a modular MVC (Model–View–Controller) architecture with clea
 
 Models:
 1. JournalEntry:
-    a. Core data model
-    b. Conforms to Codable and MKAnnotation
-    c. Stores title, body, timestamp, rating, photo, and location data
+- Core data model
+- Conforms to Codable and MKAnnotation
+- Stores title, body, timestamp, rating, photo, and location data
 
 2. SharedData:
-    a. Thread-safe singleton for data management
-    b. Handles JSON encoding/decoding
-    c. Provides CRUD operations for journal entries
+- Thread-safe singleton for data management
+- Handles JSON encoding/decoding
+- Provides CRUD operations for journal entries
 
 View Controllers:
 1. JournalListViewController – Browse and search journal entries
