@@ -33,25 +33,28 @@ The project is built entirely using UIKit and Apple’s native frameworks, focus
 
 ## Screenshots
 
-<p align="center">
-  <img src="JournalStoryScreenshots/journal_list.png" width="250" /><br/>
-  <b>Journal List Screen</b>
-</p>
-
-<p align="center">
-  <img src="JournalStoryScreenshots/Map_screen.png" width="250" /><br/>
-  <b>Map Screen</b>
-</p>
-
-<p align="center">
-  <img src="JournalStoryScreenshots/Map_screen_to_detail.png" width="250" /><br/>
-  <b>Map → Journal Detail</b>
-</p>
-
-<p align="center">
-  <img src="JournalStoryScreenshots/Map_screen_to_detail2.png" width="250" /><br/>
-  <b>Map → Journal Detail (Alternate View)</b>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="./JournalStoryScreenshots/journal_list.png" width="250" /><br/>
+      <b>Journal List Screen</b>
+    </td>
+    <td align="center">
+      <img src="./JournalStoryScreenshots/Map_screen.png" width="250" /><br/>
+      <b>Map Screen</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./JournalStoryScreenshots/Map_screen_to_detail.png" width="250" /><br/>
+      <b>Map → Journal Detail</b>
+    </td>
+    <td align="center">
+      <img src="./JournalStoryScreenshots/Map_screen_to_detail2.png" width="250" /><br/>
+      <b>Map → Journal Detail (Alternate)</b>
+    </td>
+  </tr>
+</table>
 
 🧱 Architecture
 
