@@ -31,13 +31,27 @@ The project is built entirely using UIKit and Apple’s native frameworks, focus
 - Automatic save and load on app launch
 - No third-party dependencies
 
-| Journal List | Map Screen |
-|--------------|-----------|
-| ![](JournalStoryScreenshots/journal_list.png) | ![](JournalStoryScreenshots/Map_screen.png) |
+## Screenshots
 
-| Map to Detail | Map to Detail (Alt) |
-|---------------|--------------------|
-| ![](JournalStoryScreenshots/Map_screen_to_detail.png) | ![](JournalStoryScreenshots/Map_screen_to_detail2.png)
+<p align="center">
+  <img src="JounalStoryScreenshots/journal_list.png" width="250" /><br/>
+  <b>Journal List Screen</b>
+</p>
+
+<p align="center">
+  <img src="JounalStoryScreenshots/Map_screen.png" width="250" /><br/>
+  <b>Map Screen</b>
+</p>
+
+<p align="center">
+  <img src="JounalStoryScreenshots/Map_screen_to_detail.png" width="250" /><br/>
+  <b>Map → Journal Detail</b>
+</p>
+
+<p align="center">
+  <img src="JounalStoryScreenshots/Map_screen_to_detail2.png" width="250" /><br/>
+  <b>Map → Journal Detail (Alternate View)</b>
+</p>
 
 🧱 Architecture
 
