@@ -40,8 +40,8 @@ The project is built entirely using UIKit and Apple’s native frameworks, focus
       <b>Journal List Screen</b>
     </td>
     <td align="center">
-      <img src="./JournalStoryScreenshots/Map_screen.png" width="250" /><br/>
-      <b>Map Screen</b>
+      <img src="./locationPermission.png" width="250" /><br/>
+      <b>Location Permission</b>
     </td>
   </tr>
   <tr>
